@@ -1,0 +1,5 @@
+Learned about:
+Decimal -> Time -> Octal -> Hexadecimal -> Binary conversions
+Problem solving processes
+The use of GIT Hub and the GIT commands within
+Computer hardware and it's functions
