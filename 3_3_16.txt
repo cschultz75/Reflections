@@ -1,0 +1,3 @@
+Learned about:
+Intro to Java
+Having issues grasping it and how to use Eclipse
