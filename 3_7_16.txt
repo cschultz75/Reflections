@@ -1,0 +1,13 @@
+
+Having issues with the overwhelming amount of syntax and remembering what it all means.
+Understanding "void" vs "return" and what return actually does.
+How to separate my Adventure class out into multiple classes.
+Not knowing what "tool" to use as I am not aware of many of the tools or the syntax that represents them.
+The structure of what goes where within the code.  Should it be chronological?
+The "import" function and when to use it.
+
+Unable to complete assignments without research and/or copying existing code and adjusting it.
+
+So far being a developer seems tedious, to me at least, and requires more patience than I have.
+
+I am really questioning if this is for me or not.
